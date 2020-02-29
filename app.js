@@ -7,10 +7,10 @@ const check = document.getElementById('check');
 
 //KANJI OBJECT : KEYS = ROMAJI & VALUE= KANJI
 const kanjiObj = {
-  jin: '人',
-  shin: '新',
-  eki: '駅',
-  den: '電'
+  ひと: '人',
+  あたらしい: '新しい',
+  えき: '駅',
+  でんしゃ: '電車'
 }
 //ARRAY OF KANJI CHARACTERS
 const kanjiValue = Object.values(kanjiObj);
